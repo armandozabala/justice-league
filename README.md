@@ -1,9 +1,3 @@
-# Objetivos de la repositorio
-
-Este proyecto se encarga de manejar los planes de la liga de la justicia
-
-## Estos cambio son nuevos
-
 ## Cambios nuvo desde Github
 
 :herb: esta es un huerba _hola_ **hola** formatted red text;
