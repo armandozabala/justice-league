@@ -16,7 +16,7 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 Armando said:
 
-> Ok esto es un texto con una linea
+> Ok esto es un texto con una linea.
 > Fin de la historia
 
 ```javscript
@@ -25,3 +25,10 @@ function armando(){
     console.log("@");
 }
 ```
+
+- arma
+- jse
+- zbla
+- gtierez
+
+:fire: Es candela
